@@ -1,2 +1,2 @@
 # siamfc_pytorch
-siamfc algorithm pytorch
+pytorch code for siamfc
